@@ -3,7 +3,7 @@ Data is from BTV Stat located [here](https://data.burlingtonvt.gov/explore/datas
 
 12,836 trees in Burlington, VT. Includes species, appraisal value, location, type of land, some qualitative measurements.
 
-Goal is to hopefully find some relationships within this dataset about location, species, and value.
+Goal is to explore relationships within this dataset about location, species, and value.
 
 # Data Cleaning
 Let's first look at all of the missing values in this dataset per column.
